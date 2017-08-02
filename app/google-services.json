@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396036508458",
+    "firebase_url": "https://textme-26903.firebaseio.com",
+    "project_id": "textme-26903",
+    "storage_bucket": "textme-26903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396036508458:android:55d51116d1a5d02d",
+        "android_client_info": {
+          "package_name": "aboikanych.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396036508458-gnr1e2qeol073cj2bbpa21bvp86i9id7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aboikanych.textme",
+            "certificate_hash": "49105bbd0ca09f940351377ee146588612b639f9"
+          }
+        },
+        {
+          "client_id": "396036508458-jl3efv7k7hpa972p4e34i7vsplfqvh0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupJMcumlFbbKtr1uLv1qdxnwCZV_hHVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396036508458-jl3efv7k7hpa972p4e34i7vsplfqvh0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
